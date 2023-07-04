@@ -1,0 +1,3 @@
+[database]
+item_db = "items.json"
+user_db = "users.json"
